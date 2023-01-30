@@ -5,7 +5,7 @@
 ### 
 
 - 💼 I’m currently working as a Risk Analyst at [Amazon](amazon.com).
-- 🌱 I’m enhancing my skills on MERN Stack Web Development.
+- 🌱 I’m enhancing my skills on Full Stack Web Development.
 - 👀 I’m interested in Full Stack, Frontend and Backend Technologies.
 
 ### Links to Connect :
