@@ -11,7 +11,7 @@
 ### Connect with me :
 <a href="https://github.com/sandyc4136"><img src="https://i.postimg.cc/fy8n02WK/github.pnghttps://i.postimg.cc/fy8n02WK/github.png" alt="GitHub" width="50px"/></a>
 	<a href="https://www.linkedin.com/in/sandip-chhetry-390115107/"><img src="https://i.postimg.cc/XvShXScW/linkedin.png" alt="LinkedIn" width="50px"/></a>
-	<a href="https://www.instagram.com/sandip_chhetry/"><img src="https://i.postimg.cc/KvYwKD69/instagram.png" alt="Instagram" width="50px"/></a>
+	<-- <a href="https://www.instagram.com/sandip_chhetry/"><img src="https://i.postimg.cc/KvYwKD69/instagram.png" alt="Instagram" width="50px"/></a> -->
 <!--
 **sandyc4136/sandyc4136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
